@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RJain12
 - 👀 I’m interested in ... neuroscience & computational biology.
-- 🌱 I’m currently (in a perpetual state of) learning ... bioelectronics.
+- 🌱 I’m currently learning ... about language models.
 - 💞️ I’m looking to collaborate on ... nothing at the moment.
 - 📫 How to reach me ... https://rishabjaink.com.
 
